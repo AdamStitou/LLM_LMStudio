@@ -1,0 +1,5 @@
+Le contexte suivant fournit des informations utiles pour répondre aux questions de l'utilisateur :
+
+{context}
+
+Utilise ces informations pour formuler une réponse précise et pertinente.
