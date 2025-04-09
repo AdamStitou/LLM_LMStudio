@@ -1,7 +1,7 @@
 import lmstudio as lms
 
 model = lms.llm()
-chat = lms.Chat("You are a task focused AI assistant")
+chat = lms.Chat("You are a task focused AI assistant, response in french")
 
 while True:
     try:
